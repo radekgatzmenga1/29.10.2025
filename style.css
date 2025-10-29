@@ -1,0 +1,111 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.lewy{
+
+    background-color: yellow;
+    width: 50%;
+    height: 900px;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    flex-wrap: wrap;
+    
+}
+.lg{
+    display: flex;
+    outline: solid 1px black;
+    width: 50%;
+    height: 50%;
+}
+.pg{
+    display: flex;
+    outline: solid 1px black;
+    width: 50%;
+    height: 50%;
+}
+.ld{
+    display: flex;
+    outline: solid 1px black;
+    width: 50%;
+    height: 50%;
+}
+.pd{
+    display: flex;
+    outline: solid 1px black;
+    width: 50%;
+    height: 50%;
+
+}
+.czerwony1{
+    background-color: brown;
+    display: flex;
+    width: 50%;
+    height: 50%;
+}
+.czerwony2{
+    background-color: brown;
+    display: flex;
+    width: 50%;
+    height: 50%;
+}.czerwony3{
+    background-color: brown;
+    display: flex;
+    width: 50%;
+    height: 50%;
+}.czerwony4{
+    background-color: brown;
+    display: flex;
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.prawy{
+    background-color: blue;
+    width: 50%;
+    height: 900px;
+    display: flex
+    
+}
